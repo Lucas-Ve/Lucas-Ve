@@ -1,4 +1,13 @@
-## Hi there 👋
+# Lucas Veloso
+
+👋 Hi, I'm Lucas Veloso, a 23-year-old student at 42, specializing in cybersecurity. Passionate about tech and security, I enjoy exploring, learning, and tackling technical challenges.
+
+🎯 **Specialization:** Cybersecurity  
+📍 **Age:** 23  
+🚀 **Skills:** Pentesting and more.
+
+Curious and driven, I'm constantly seeking new knowledge and projects to sharpen my skills and contribute to system security.
+
 
 <!--
 **Lucas-Ve/Lucas-Ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
