@@ -4,7 +4,7 @@
 
 🎯 **Specialization:** Cybersecurity  
 📍 **Age:** 23  
-🚀 **Skills:** Pentesting and more.
+🚀 **Learning:** C, C++, Python, Bash, Assembly, Pentesting and more.
 
 Curious and driven, I'm constantly seeking new knowledge and projects to sharpen my skills and contribute to system security.
 
