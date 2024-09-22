@@ -19,6 +19,8 @@ Curious and driven, I'm constantly seeking new knowledge and projects to sharpen
 </div>
 
 <div align="center"> 
+    📫 How to reach me : lucasveloso@sfr.fr
+    <br/>
   <a href="mailto:lucasveloso@sfr.fr">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
