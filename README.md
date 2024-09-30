@@ -12,6 +12,8 @@
 
 🎯 **Specialization:** Cybersecurity
 
+🔭 **Current Project:** ft_nmap, implementation in C of the tool nmap.
+
 🚀 **Learning:** C, C++, Python, Bash, Assembly, Pentesting and more.
 
 Curious and driven, I'm constantly seeking new knowledge and projects to sharpen my skills and contribute to system security.
